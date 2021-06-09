@@ -20,7 +20,7 @@ Não, eles não possuem nada de especial, mas foram projetos que me ajudaram mui
   Como já disse, sou o Felipe. Sempre gostei muito sobre o funcionamento de tudo. </br>
   Na faculdade de Engenharia Civil, tive meu primeiro contato com a programação,</br>
   realizei alguns projetos em que implementei alguns algoritmos para o cálculo de estruturas com Python e Matlab</br>
-  Gostei tanto, que iniciei um curso de Java orientado a objetos, foi maravilhoso (apesar de eu não lembrar muito hehe), </br>
+  Gostei tanto que iniciei um curso de Java orientado a objetos, foi maravilhoso (apesar de eu não lembrar muito hehe), </br>
   uma linguagem que necessita estar afiada sempre devido a sua estrutura ser muito verbosa,</br>
   de toda forma, os frutos ainda são aproveitados, minha visão sobre programação foi melhorada. </br>
   Atualmente estou focado em tecnologias Front-end, já tenho bons conhecimentos em Html, Css e javascript </br>
