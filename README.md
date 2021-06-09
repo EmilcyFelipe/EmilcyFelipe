@@ -2,6 +2,9 @@
 
 ## Olá, seja bem vindo(a)
 
+![turtle](https://github.com/EmilcyFelipe/Assets/blob/master/turtle.jpg)
+
+
 Me chamo Felipe e se você está aqui, provavelmente está perdido.
 Tudo bem, já que chegou até aqui, que tal ficar mais um pouco?</br>
 Você certamente não irá encontrar projetos incríveis que irão te surpreender,</br>
@@ -26,6 +29,12 @@ Não, eles não possuem nada de especial, mas foram projetos que me ajudaram mui
 ## Contato
   - 📫 felipe.progweb@gmail.com </br>
   Fique à vontade para me mandar uma mensagem :)
+  
+## Turtle
+  Bem, sobre a tartaruga. Há algum tempo eu li uma história e o personagem principal</br>
+  possuía a tartaruga como animal que o representava, chama-se "A will eternal", traduzindo, a vontade eterna. </br>
+  Dentre as diversas características da tartaruga que chamaram minha atenção, destaco a longa vida, a paciência, e a perseverança.</br>
+  Os dois ultimos estão mais no nosso controle, aspectos essenciais para nossa vida.
   
 
 <!---
