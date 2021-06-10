@@ -8,13 +8,13 @@
 Me chamo Felipe e se você está aqui, provavelmente está perdido.</br>
 Tudo bem, já que chegou até aqui, que tal ficar mais um pouco?</br>
 Desse modo, te convido a passar o olho nos meus "bebês", </br>
-dentre eles, gostaria de destacar: jogo_da_memoria; Don't bother the beetle; e o Dog_css;
+dentre eles, gostaria de destacar: jogo_da_memoria; Beetle; e o Dog-css;
 Embora simples, foram projetos que me ajudaram muito a desenvolver minhas habilidades.
 
 ## Sobre mim:
   Como já disse, sou o Felipe. Sempre gostei muito sobre o funcionamento de tudo. </br>
   Na faculdade de Engenharia Civil, tive meu primeiro contato com a programação,</br>
-  realizei alguns projetos em que implementei alguns algoritmos para o cálculo de estruturas com Python e Matlab</br>
+  realizei alguns projetos em que implementei alguns algoritmos para o cálculo de estruturas com Python e Matlab. </br>
   Gostei tanto que iniciei um curso de Java orientado a objetos, foi maravilhoso (apesar de eu não lembrar muito hehe), </br>
   uma linguagem que necessita estar afiada sempre, devido a sua estrutura ser muito verbosa.</br>
   De toda forma, os frutos ainda são aproveitados, minha visão sobre programação foi melhorada. </br>
