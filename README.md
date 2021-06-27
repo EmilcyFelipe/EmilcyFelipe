@@ -3,7 +3,7 @@
 
 ## About me:
   I am Front-end developer. My skills focus on Web, Html, CSS and javascript, but i started  mobile📚<\br>
-  At the moment, i have studying flutter. This tecnology caught my atention, when i started i liked it a lot.
+  At the moment, i have studying flutter.
 
 ## Contato
   - 📫 felipe.progweb@gmail.com </br>
