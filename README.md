@@ -2,7 +2,7 @@
 
 
 ## About me:
-  I am Front-end designer. My skills focus on Html, CSS and javascript. But i started  mobile📚<\br>
+  I am Front-end developer. My skills focus on Web, Html, CSS and javascript, but i started  mobile📚<\br>
   At the moment, i have studying flutter. This tecnology caught my atention, when i started i liked it a lot.
 
 ## Contato
