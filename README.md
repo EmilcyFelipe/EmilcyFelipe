@@ -23,8 +23,7 @@
 </div>
   
 ## About me:
-  I am Front-end developer. My skills focus on Web, Html, CSS and javascript, but i started  mobile📚
-  At the moment, i have studying flutter.
+  I am Front-end developer. My skills focus on Web, Html, CSS and javascript. At the moment, i'm studying Reactjs and others complementary techs.
 
 ## Contato
   - 📫 felipe.progweb@gmail.com </br>
