@@ -24,6 +24,9 @@
   
 ## About me:
   I am Front-end developer. My skills focus on Web, Html, CSS and javascript. At the moment, i'm studying Reactjs and others complementary techs.
+  
+## My Repository
+  So, this is my time line of learning, you will find some projects that is not good and not very useful, but they were sources and very important to my learning. Don't make sense i just let the best saved here. You will find others that is good, but they are the result others.
 
 ## Contato
   - 📫 felipe.progweb@gmail.com </br>
