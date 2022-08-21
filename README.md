@@ -1,4 +1,4 @@
-## Hello, welcome here
+## Olá, bem vindo(a)!
 
 <div>
   <a href="https://github.com/EmilcyFelipe">
@@ -22,15 +22,16 @@
   ![Snake animation](https://github.com/emilcyfelipe/emilcyfelipe/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-## About me:
-  I am Front-end developer. My skills focus on Web, Html, CSS and javascript. At the moment, i'm studying Reactjs and others complementary techs.
+## Sobre mim:
+  Sou um desenvolver focado em React Js e React native. Buscando o sonho de atuar na área profissionalmente. Gosto da área WEb, mas minha afinidade maior é desenvolver para mobile
   
-## My Repository
-  So, this is my time line of learning, you will find some projects that is not good and not very useful, but they were sources and very important to my learning haha. You will find others that are good too
+## Meu Repositório
+  Sobre meu repositório, caso tenha interesse em analisar alguns dos meus projetos, recomendo o FPConcursos, dediquei muito tempo nele, é um projeto autoral que está relacionado ao meu desejo de construir algo completamente sozinho, estudando e resolvendo todos os problemas de todas as etapas de um projeto para fixação de conhecimento. Também há diversos projetos interessantes, outros autorais também, mas maioria está relacionado a desafios que concluí no meu processo de aprendizado, sinta-se à vontade.
+  
 
 ## Contato
   - 📫 felipe.progweb@gmail.com </br>
-  Feel free to text me :) 📱
+  Sinta-se à vontade para falar comigo :) 📱
   
 
   
